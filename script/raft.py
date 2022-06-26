@@ -1,7 +1,6 @@
 import pyautogui as pg
 import time
 import os
-from re import search
 
 # get actual path
 script_path = path_script = os.path.abspath(__file__)
